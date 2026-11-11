@@ -19,7 +19,7 @@ We dedicated to the development and maintenance of Minecraft 1.7.10~1.8.9 plugin
 Submit your application to admin@cnolm.top, including your development experience, skills, online availability, and what you can offer to us.
 ### Feedback
 If you are a developer, please submit a pull request (PR) or issue in the corresponding Github repository.  
-If you are a player, you can submit feedback to xxx, and we will address it for you as soon as possible.  
+If you are a player, you can submit feedback to admin@cnolm.top, and we will address it for you as soon as possible.  
 
 **For any useful contribution in any form, we will offer certain rewards**  
 We deeply apologize for any issues you may encounter while experiencing our product, and for any impact this may have on you
